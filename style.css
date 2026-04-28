@@ -27,7 +27,7 @@ p {
 
 a {
     text-decoration: none;
-    postion: relative;
+    position: relative;
     transition: opacity 300ms ease;
 }
 
